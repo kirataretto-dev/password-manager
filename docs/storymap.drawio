@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZyqadpMiBGwO5G_WhcMI" name="ページ-1">
+        <mxGraphModel dx="952" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="パスワード作成する" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ユーザーがパスワードを忘れたり、使い回しを防ぐためのパスワード生成＆管理アプリ&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="100" width="280" x="20" y="-10" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="作成したパスワードを管理する" vertex="1">
+                    <mxGeometry height="60" width="120" x="490" y="288" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;p&gt;作成する&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-5" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="110" y="380" as="sourcePoint"/>
+                        <mxPoint x="937.0175010279605" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="50" width="120" x="20" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="スマホアプリに文字入力" vertex="1">
+                    <mxGeometry height="60" width="120" x="150" y="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="スマホアプリで自動生成" vertex="1">
+                    <mxGeometry height="60" width="120" x="150" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="320" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自動保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="320" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-12" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="110" y="570" as="sourcePoint"/>
+                        <mxPoint x="962.806974712171" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="既存のパスワードを変更" vertex="1">
+                    <mxGeometry height="60" width="120" x="500" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="既存のパスワードを削除" vertex="1">
+                    <mxGeometry height="60" width="120" x="490" y="478" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="文字数を&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;指定する&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="140" y="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="保存した一覧を表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="490" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="管理する" vertex="1">
+                    <mxGeometry height="60" width="120" x="490" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="パスワードをクリップボードにコピー" vertex="1">
+                    <mxGeometry height="60" width="120" x="670" y="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-22" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="代替案" vertex="1">
+                    <mxGeometry height="50" width="120" x="30" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="LCEOsWDuGKtk_mviLz3o-23" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="110" y="675" as="sourcePoint"/>
+                        <mxPoint x="961.568603515625" y="675" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
